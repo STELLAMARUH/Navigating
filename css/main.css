@@ -2,7 +2,7 @@ body{
 background-color:#e67870;
 color:#222;*/
 font-family: Arial,Helvetica,sans-serif;
- background: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F3759099%2Fpexels-photo-3759099.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940);
+ background: url(https://eskipaper.com/images/inspirational-backgrounds-images-1.jpg);
 
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,12 +41,16 @@ color: cyan;
 color: #080404;
 max-width: 1200px;
 margin:0 auto;
+background-color: #ffb3b3;
+background-size: cover;
 }
 .conte h1{
-padding: 0;
-margin: 0;
+color: #080404;
+max-width: 1200px;
+margin:0 auto;
+background-color: #ffb3b3;
+background-size: cover;
 }
-footer{
 font-size: 12px;
 text-align: center;
 padding: 50px 0;
